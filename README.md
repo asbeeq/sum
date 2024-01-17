@@ -12,7 +12,7 @@
 ## Set up
 - Clone:
     ```
-        git clone 
+        git clone https://github.com/asbeeq/sum 
     ```
 - Dependencies:
     ```
